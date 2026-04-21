@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables (keep secrets out of git!)
+.env
+
+# VS Code
+.vscode/
+
+# Mac junk
+.DS_Store
